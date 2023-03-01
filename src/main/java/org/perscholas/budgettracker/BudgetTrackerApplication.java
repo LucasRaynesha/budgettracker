@@ -10,6 +10,7 @@ import org.springframework.context.annotation.Configuration;
 public class BudgetTrackerApplication {
 
     public static void main(String[] args) {
+
         SpringApplication.run(BudgetTrackerApplication.class, args);
     }
 
