@@ -9,7 +9,7 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>org.perscholas</groupId>
-    <artifactId>BudgetTracker</artifactId>
+    <artifactId>Lucas_Raynesha_BudgetTracker_CaseStudy</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>BudgetTracker</name>
     <description>BudgetTracker</description>
